@@ -1,0 +1,11 @@
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\bin\Debug\Conv2MP4.exe.config
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\bin\Debug\Conv2MP4.exe
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\bin\Debug\Conv2MP4.pdb
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.csproj.AssemblyReference.cache
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.Form1.resources
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.Properties.Resources.resources
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.csproj.GenerateResource.cache
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.csproj.CoreCompileInputs.cache
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.exe
+C:\Users\MaxHe\source\repos\Conv2MP4\Conv2MP4\obj\Debug\Conv2MP4.pdb
